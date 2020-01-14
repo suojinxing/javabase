@@ -2,7 +2,6 @@ package javanio;
 
 import org.junit.Test;
 
-import java.nio.Buffer;
 import java.nio.ByteBuffer;
 
 /**
@@ -20,10 +19,18 @@ import java.nio.ByteBuffer;
  * 管理方式几乎一致
  */
 public class T1Buffer {
+
+    @Test
+    public void test3allocateDirect() {
+        ByteBuffer buffer = ByteBuffer.allocateDirect(1024);
+        System.out.println(buffer.isDirect()); // 是否为直接缓冲区
+    }
+
     /*
      * mark
      */
-    @Test public void test2(){
+    @Test
+    public void test2() {
         String str = "abcde";
         ByteBuffer buffer = ByteBuffer.allocate(1024);
 
