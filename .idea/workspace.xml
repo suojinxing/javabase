@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3693eb9b-8f65-47a6-ab59-b38c65fe2dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/file/GenerateFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javanio/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javanio/T2Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/LimitSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/NoSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/OddSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/Support.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/chainofresponsibility/Trouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javabase/javanio/T1Buffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javabase/javanio/T1Buffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanio/T1Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javanio/T1Buffer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,76 +22,7 @@
     <favorites_list name="javabase" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/NoSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/LimitSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/OddSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Support.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,6 +36,8 @@
       <find>toArray</find>
       <find>modCount</find>
       <find>png</find>
+      <find>add</find>
+      <find>size</find>
     </findStrings>
     <replaceStrings>
       <replace>jpg</replace>
@@ -150,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/pattern/chainofresponsibility/OddSupport.java" />
         <option value="$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java" />
         <option value="$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/ListTest.java" />
       </list>
     </option>
   </component>
@@ -162,7 +85,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="25" />
     <option name="y" value="23" />
     <option name="width" value="1432" />
@@ -177,6 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,25 +114,10 @@
               <item name="javabase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="chainofresponsibility" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="JUnit.ListTest.testArrayList$Add">
     <configuration name="GenerateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="file.GenerateFile" />
       <module name="javabase" />
@@ -297,15 +207,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.composite.Main" />
+    <configuration name="ListTest.testArrayList$Add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern.composite.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ListTest" />
+      <option name="METHOD_NAME" value="testArrayList$Add" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -328,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ListTest.testArrayList$Add" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.GenerateFile" />
         <item itemvalue="JUnit.T2Channel.test1Channel" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +266,8 @@
       <workItem from="1578613186563" duration="3465000" />
       <workItem from="1578894006648" duration="7822000" />
       <workItem from="1578958775061" duration="4229000" />
-      <workItem from="1578992000108" duration="1448000" />
+      <workItem from="1578992000108" duration="5620000" />
+      <workItem from="1579045331124" duration="241000" />
     </task>
     <task id="LOCAL-00001" summary="NIO的学习第一天。">
       <created>1578566191528</created>
@@ -376,43 +290,50 @@
       <option name="project" value="LOCAL" />
       <updated>1578895813381</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="责任链模式。">
+      <created>1578993843785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578993843785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="T1Buffer_test2 - 2020.01.09 at 18h 29m 05s.xml">
-      <configuration name="T1Buffer.test2" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 07m 47s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T1Buffer_test2 - 2020.01.09 at 18h 31m 48s.xml">
-      <configuration name="T1Buffer.test2" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 15m 02s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T1Buffer_test2 - 2020.01.09 at 18h 32m 27s.xml">
-      <configuration name="T1Buffer.test2" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 21m 26s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T1Buffer_test2 - 2020.01.09 at 18h 33m 51s.xml">
-      <configuration name="T1Buffer.test2" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 23m 20s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T1Buffer_test2 - 2020.01.09 at 18h 35m 10s.xml">
-      <configuration name="T1Buffer.test2" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 31m 45s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T1Buffer_test2 - 2020.01.09 at 18h 35m 43s.xml">
-      <configuration name="T1Buffer.test2" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 44m 39s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T2Channel_test1Channel - 2020.01.13 at 19h 56m 21s.xml">
-      <configuration name="T2Channel.test1Channel" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 44m 50s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T2Channel_test1Channel - 2020.01.13 at 19h 56m 57s.xml">
-      <configuration name="T2Channel.test1Channel" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 45m 16s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T2Channel_test1Channel - 2020.01.13 at 19h 58m 18s.xml">
-      <configuration name="T2Channel.test1Channel" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.14 at 18h 48m 26s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T2Channel_test1Channel - 2020.01.14 at 09h 43m 03s.xml">
-      <configuration name="T2Channel.test1Channel" configurationId="JUnit" />
+    <history-entry file="ListTest_testArrayList$Add - 2020.01.15 at 08h 18m 56s.xml">
+      <configuration name="ListTest.testArrayList$Add" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20416000" />
+    <option name="totallyTimeSpent" value="24829000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,10 +346,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49518073" visible="true" weight="0.24606581" />
-      <window_info id="Structure" order="1" sideWeight="0.5048193" side_tool="true" visible="true" weight="0.24606581" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4939759" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" sideWeight="0.5060241" side_tool="true" visible="true" weight="0.24964234" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -465,56 +385,26 @@
     <MESSAGE value="NIO的学习第一天。" />
     <MESSAGE value="composite模式。" />
     <MESSAGE value="vistor模式。" />
-    <option name="LAST_COMMIT_MESSAGE" value="vistor模式。" />
+    <MESSAGE value="责任链模式。" />
+    <option name="LAST_COMMIT_MESSAGE" value="责任链模式。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/composite/FileTreatmentException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/composite/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/composite/Entry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pattern/composite/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -749,31 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="230" column="48" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="48" />
-          <folding>
-            <element signature="e#4705#4905#0" expanded="true" />
-            <element signature="e#7611#7886#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="210" column="4" selection-start-line="210" selection-start-column="4" selection-end-line="210" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="577" column="33" selection-start-line="577" selection-start-column="26" selection-end-line="577" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javanio/2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -861,23 +726,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/NoSupport.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="227">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/LimitSupport.java">
+    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state relative-caret-position="285">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -892,10 +758,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java">
+    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/LimitSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="209">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/NoSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
         </state>
       </provider>
     </entry>
@@ -910,10 +796,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="156">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;field#modCount#0;class#AbstractList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10268">
+          <caret line="816" column="23" selection-start-line="816" selection-start-column="23" selection-end-line="816" selection-end-column="23" />
+          <folding>
+            <element signature="e#4705#4905#0" expanded="true" />
+            <element signature="e#7611#7886#0" expanded="true" />
+            <element signature="e#8940#9171#0" expanded="true" />
+            <element signature="e#15586#15587#0" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
+            <element signature="e#16546#16748#0" expanded="true" />
+            <element signature="e#31007#31008#0" expanded="true" />
+            <element signature="e#31039#31040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
