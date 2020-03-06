@@ -24,9 +24,3 @@ public class MethodReference {
 //        emps.forEach();
     }
 }
-
-class Person{
-    public boolean test(Integer str){
-        return true;
-    }
-}

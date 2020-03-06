@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3693eb9b-8f65-47a6-ab59-b38c65fe2dfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annodemo/ExtractInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annodemo/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/FilterName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestFilterNameEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/BarcodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8/AppleUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/FilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/ReduceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflect/ClassPrivate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/StreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/StreamApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/MethodReference.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,23 +36,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/annodemo/Multiplier.java">
+        <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/FilterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflect/ClassPrivate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/annodemo/ExtractInterface.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="435">
+              <caret line="1657" column="28" selection-start-line="1657" selection-start-column="28" selection-end-line="1657" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="104" column="83" selection-start-line="104" selection-start-column="83" selection-end-line="104" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MatchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="61" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/ReduceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/Dish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -66,6 +114,12 @@
       <find>png</find>
       <find>add</find>
       <find>size</find>
+      <find>equals</find>
+      <find>sort</find>
+      <find>compare</find>
+      <find>comparing</find>
+      <find>sorted</find>
+      <find>getInstance</find>
     </findStrings>
     <replaceStrings>
       <replace>jpg</replace>
@@ -101,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java" />
         <option value="$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java" />
         <option value="$PROJECT_DIR$/src/test/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/lambda/MethodReference.java" />
         <option value="$PROJECT_DIR$/src/pattern/observer/Main.java" />
         <option value="$PROJECT_DIR$/src/lambda/StreamApi.java" />
         <option value="$PROJECT_DIR$/src/enumdemo/FilterName.java" />
@@ -110,6 +163,19 @@
         <option value="$PROJECT_DIR$/src/enumdemo/Multiplier.java" />
         <option value="$PROJECT_DIR$/src/annodemo/Multiplier.java" />
         <option value="$PROJECT_DIR$/src/annodemo/InterfaceExtractorProcessor.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8/Apple.java" />
+        <option value="$PROJECT_DIR$/src/lambda/BarcodeTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8/AppleUtils.java" />
+        <option value="$PROJECT_DIR$/src/lambda/Lambda.java" />
+        <option value="$PROJECT_DIR$/src/lambda/MethodReference.java" />
+        <option value="$PROJECT_DIR$/src/lambda/Person.java" />
+        <option value="$PROJECT_DIR$/src/lambda/User.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/Dish.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MatchTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/ReduceTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/java8pdf/chapter5/FilterTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/ClassPrivate.java" />
       </list>
     </option>
   </component>
@@ -122,7 +188,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -135,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,14 +215,13 @@
             </path>
             <path>
               <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -177,6 +241,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -209,79 +274,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Multiplier">
-    <configuration name="Multiplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annodemo.Multiplier" />
+  <component name="RunManager" selected="JUnit.ClassPrivate.test1">
+    <configuration name="ClassPrivate.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annodemo.*" />
+          <option name="PATTERN" value="reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javabase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lambda" />
-      <option name="MAIN_CLASS_NAME" value="lambda.OptionalTest" />
+      <option name="PACKAGE_NAME" value="reflect" />
+      <option name="MAIN_CLASS_NAME" value="reflect.ClassPrivate" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamApi.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassPrivate.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.*" />
+          <option name="PATTERN" value="reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lambda" />
-      <option name="MAIN_CLASS_NAME" value="lambda.StreamApi" />
+      <option name="PACKAGE_NAME" value="reflect" />
+      <option name="MAIN_CLASS_NAME" value="reflect.ClassPrivate" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamApi.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MatchTest.matchEle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.*" />
+          <option name="PATTERN" value="lambda.java8pdf.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lambda" />
-      <option name="MAIN_CLASS_NAME" value="lambda.StreamApi" />
-      <option name="METHOD_NAME" value="testString" />
+      <option name="PACKAGE_NAME" value="lambda.java8pdf.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="lambda.java8pdf.chapter5.MatchTest" />
+      <option name="METHOD_NAME" value="matchEle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFilterNameEnum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReduceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javabase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annodemo.*" />
+          <option name="PATTERN" value="lambda.java8pdf.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="enumdemo" />
-      <option name="MAIN_CLASS_NAME" value="enumdemo.TestFilterNameEnum" />
+      <option name="PACKAGE_NAME" value="lambda.java8pdf.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="lambda.java8pdf.chapter5.ReduceTest" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javabase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.java8pdf.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lambda.java8pdf.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="lambda.java8pdf.chapter5.ReduceTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -289,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multiplier" />
-        <item itemvalue="JUnit.TestFilterNameEnum.test" />
-        <item itemvalue="JUnit.StreamApi.testString" />
-        <item itemvalue="JUnit.StreamApi.test1" />
-        <item itemvalue="JUnit.OptionalTest.test" />
+        <item itemvalue="JUnit.ClassPrivate.test1" />
+        <item itemvalue="JUnit.ClassPrivate.test" />
+        <item itemvalue="JUnit.ReduceTest.test2" />
+        <item itemvalue="JUnit.ReduceTest.test" />
+        <item itemvalue="JUnit.MatchTest.matchEle" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +390,19 @@
       <workItem from="1579270444067" duration="283000" />
       <workItem from="1579390508730" duration="2377000" />
       <workItem from="1579411051588" duration="4728000" />
+      <workItem from="1579479775736" duration="774000" />
+      <workItem from="1580122913786" duration="1022000" />
+      <workItem from="1580179202617" duration="4773000" />
+      <workItem from="1580263484990" duration="100000" />
+      <workItem from="1580351544617" duration="189000" />
+      <workItem from="1580450075547" duration="9000" />
+      <workItem from="1580524599868" duration="32000" />
+      <workItem from="1580623182125" duration="379000" />
+      <workItem from="1580686156020" duration="129000" />
+      <workItem from="1580689023796" duration="4907000" />
+      <workItem from="1580795101921" duration="188000" />
+      <workItem from="1582252522060" duration="76000" />
+      <workItem from="1583124000739" duration="3594000" />
     </task>
     <task id="LOCAL-00001" summary="NIO的学习第一天。">
       <created>1578566191528</created>
@@ -365,43 +446,50 @@
       <option name="project" value="LOCAL" />
       <updated>1579392754444</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="anno和enum">
+      <created>1579479805446</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579479805446</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StreamApi_testString - 2020.01.19 at 08h 15m 19s.xml">
-      <configuration name="StreamApi.testString" configurationId="JUnit" />
+    <history-entry file="ReduceTest_test - 2020.02.03 at 15h 36m 13s.xml">
+      <configuration name="ReduceTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamApi_testString - 2020.01.19 at 08h 15m 34s.xml">
-      <configuration name="StreamApi.testString" configurationId="JUnit" />
+    <history-entry file="ReduceTest_test2 - 2020.02.03 at 15h 39m 10s.xml">
+      <configuration name="ReduceTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamApi_testString - 2020.01.19 at 08h 15m 43s.xml">
-      <configuration name="StreamApi.testString" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test - 2020.03.02 at 12h 43m 37s.xml">
+      <configuration name="ClassPrivate.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 45m 33s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test - 2020.03.02 at 12h 44m 26s.xml">
+      <configuration name="ClassPrivate.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 47m 17s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test - 2020.03.02 at 12h 44m 56s.xml">
+      <configuration name="ClassPrivate.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 55m 42s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test - 2020.03.02 at 12h 45m 47s.xml">
+      <configuration name="ClassPrivate.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 57m 31s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test - 2020.03.02 at 12h 46m 38s.xml">
+      <configuration name="ClassPrivate.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 57m 38s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test - 2020.03.02 at 12h 47m 11s.xml">
+      <configuration name="ClassPrivate.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 57m 53s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test1 - 2020.03.02 at 13h 27m 27s.xml">
+      <configuration name="ClassPrivate.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFilterNameEnum_test - 2020.01.19 at 14h 58m 25s.xml">
-      <configuration name="TestFilterNameEnum.test" configurationId="JUnit" />
+    <history-entry file="ClassPrivate_test1 - 2020.03.02 at 13h 28m 38s.xml">
+      <configuration name="ClassPrivate.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34186000" />
+    <option name="totallyTimeSpent" value="50358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,8 +504,8 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48795182" visible="true" weight="0.27110156" />
-      <window_info id="Structure" order="1" sideWeight="0.5120482" side_tool="true" weight="0.26752505" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47831327" visible="true" weight="0.32260373" />
+      <window_info id="Structure" order="1" sideWeight="0.52168673" side_tool="true" weight="0.30972818" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -425,7 +513,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5120482" side_tool="true" weight="0.26752505" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44216868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,6 +525,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Sequence" order="13" />
+      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
@@ -446,6 +535,9 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
+      <window_info anchor="right" id="Flutter Performance" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +550,8 @@
     <MESSAGE value="责任链模式。" />
     <MESSAGE value="添加注释。" />
     <MESSAGE value="lambda和观察者模式。" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda和观察者模式。" />
+    <MESSAGE value="anno和enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="anno和enum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,395 +570,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javanio/T2Channel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="15" column="101" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javanio/T1Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/visitor/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Trouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file/GenerateFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/SpecialSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/OddSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/LimitSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/NoSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="356" selection-start-line="356" selection-end-line="356" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/chainofresponsibility/Support.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-          <folding>
-            <element signature="docComment;field#modCount#0;class#AbstractList#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10268">
-          <caret line="816" column="23" selection-start-line="816" selection-start-column="23" selection-end-line="816" selection-end-column="23" />
-          <folding>
-            <element signature="e#4705#4905#0" expanded="true" />
-            <element signature="e#7611#7886#0" expanded="true" />
-            <element signature="e#8940#9171#0" expanded="true" />
-            <element signature="e#15586#15587#0" expanded="true" />
-            <element signature="e#15631#15632#0" expanded="true" />
-            <element signature="e#16546#16748#0" expanded="true" />
-            <element signature="e#31007#31008#0" expanded="true" />
-            <element signature="e#31039#31040#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="173" selection-start-line="173" selection-end-line="173" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/RandomAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="104" column="31" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="31" />
-          <folding>
-            <element signature="e#3504#3505#0" expanded="true" />
-            <element signature="e#3562#3563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/java/util/HashMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="1014" column="35" selection-start-line="1014" selection-start-column="35" selection-end-line="1014" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#216401#0" expanded="true" />
-            <element signature="e#5709#5710#0" expanded="true" />
-            <element signature="e#5740#5741#0" expanded="true" />
-            <element signature="e#19977#20556#0" expanded="true" />
-            <element signature="e#30206#33215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="477" column="16" selection-start-line="477" selection-start-column="16" selection-end-line="477" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1354" column="27" lean-forward="true" selection-start-line="1354" selection-start-column="27" selection-end-line="1354" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Objects.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="54" column="38" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#2007#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
-          <folding>
-            <element signature="e#2998#2999#0" expanded="true" />
-            <element signature="e#3042#3043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/OptionalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/Lambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/MethodReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3192">
-          <caret line="168" column="25" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2722">
-          <caret line="61" column="29" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationParser.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/StreamApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="26" column="123" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/enumdemo/FilterName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/enumdemo/TestFilterNameEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/observer/RandomNumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/observer/DigitObserver.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/observer/GraphObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/observer/NumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pattern/observer/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/annodemo/InterfaceExtractorProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/annodemo/Multiplier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -879,8 +583,397 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/annodemo/ExtractInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="38">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1101">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/AnnotationFormatError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/AnnotationTypeMismatchException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/beans/Beans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6758">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Documented.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/IncompleteAnnotationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Retention.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Repeatable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Native.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/apple/launcher/JavaAppLauncher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/objects/annotations/Setter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/BarcodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Void.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8/AppleUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/CharsetMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1238" column="33" selection-start-line="1238" selection-start-column="33" selection-end-line="1238" selection-end-column="33" />
+          <folding>
+            <element signature="e#47538#47539#0" expanded="true" />
+            <element signature="e#47602#47603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="475" column="27" selection-start-line="475" selection-start-column="27" selection-end-line="475" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/StreamApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="123" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="5107" column="36" selection-start-line="5107" selection-start-column="36" selection-end-line="5107" selection-end-column="36" />
+          <folding>
+            <element signature="e#5709#5710#0" expanded="true" />
+            <element signature="e#5740#5741#0" expanded="true" />
+            <element signature="e#197352#197353#0" expanded="true" />
+            <element signature="e#197422#197423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2619">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="109" column="31" lean-forward="true" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/Lambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+          <folding>
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" column="53" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="25" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/MethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="5003" column="16" lean-forward="true" selection-start-line="5003" selection-start-column="16" selection-end-line="5003" selection-end-column="16" />
+          <folding>
+            <element signature="e#223144#223145#0" expanded="true" />
+            <element signature="e#223197#223198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/function/BinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="606" column="36" lean-forward="true" selection-start-line="606" selection-start-column="36" selection-end-line="606" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="463" column="69" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
+          <folding>
+            <element signature="docComment;method#equals#0;class#Comparator#0" />
+            <element signature="docComment;method#reversed#0;class#Comparator#0" />
+            <element signature="e#7819#7820#0" expanded="true" />
+            <element signature="e#7872#7873#0" expanded="true" />
+            <element signature="method#thenComparing#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
+            <element signature="method#thenComparing#1;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
+            <element signature="method#thenComparing#2;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/FilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="104" column="83" selection-start-line="104" selection-start-column="83" selection-end-line="104" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/MatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/ReduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/java8pdf/chapter5/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1793">
+          <caret line="347" column="58" lean-forward="true" selection-start-line="347" selection-start-column="15" selection-end-line="347" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5289">
+          <caret line="400" column="23" selection-start-line="400" selection-start-column="23" selection-end-line="400" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/ClassPrivate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="1657" column="28" selection-start-line="1657" selection-start-column="28" selection-end-line="1657" selection-end-column="28" />
         </state>
       </provider>
     </entry>
